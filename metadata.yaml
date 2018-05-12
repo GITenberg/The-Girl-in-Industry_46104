@@ -20,6 +20,8 @@ creator:
     gutenberg_agent_id: '43613'
     url: http://www.gutenberg.org/2009/agents/43613
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46104#The-Girl-in-Industry
 gutenberg_issued: '2014-06-26'
 gutenberg_type: Text
 identifiers:
