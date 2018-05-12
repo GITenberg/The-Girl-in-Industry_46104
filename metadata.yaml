@@ -1,0 +1,35 @@
+_repo: The-Girl-in-Industry_46104
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Hutchins, B. L.
+    alias: Hutchins, Elizabeth Leigh
+    birthdate: 1858
+    deathdate: 1935
+    gutenberg_agent_id: '41310'
+    url: http://www.gutenberg.org/2009/agents/41310
+covers:
+- cover_type: archival
+  image_path: 46104-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Collier, Dorothy Josephine
+    alias: Collier, D. J. (Dorothy Josephine)
+    birthdate: 1894
+    deathdate: 1972
+    gutenberg_agent_id: '43613'
+    url: http://www.gutenberg.org/2009/agents/43613
+description: ''
+gutenberg_issued: '2014-06-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46104'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HD'
+- !lcsh 'Women -- Employment -- Great Britain'
+title: The Girl in Industry
+url: http://www.gutenberg.org/ebooks/46104
